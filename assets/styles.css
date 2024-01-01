@@ -1,0 +1,10 @@
+body {
+  background-color:rgb(216, 214, 214);  
+}
+#profilepic {
+    width: 100%;
+}
+.lists, .lists ol, .lists li {
+    text-align: center;
+    list-style-position: inside;
+}
