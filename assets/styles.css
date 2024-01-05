@@ -1,6 +1,18 @@
 body {
   background-color:rgb(216, 214, 214);  
 }
+.rounded-box {
+  height: 150px;
+  background-color:#c6deee;
+  border-top-right-radius: 50px;
+  text-align: center;
+}
+.biography {
+  background-color: aqua;
+  height: 70px;
+  width: 100px;
+  align-self: center;
+}
 #profilepic {
     width: 100%;
 }
@@ -16,3 +28,4 @@ hr {
 title {
   text-align: center;
  } 
+
